@@ -16,7 +16,7 @@
 | ḥ | /ħ/ | ḥemmel | to love |
 | i | /i/ | imi | mouth |
 | j | /ʒ/ | ajerrid | trace / line |
-| k | /k/ /ç/ | akal | earth / land |
+| k | /k/ /ç/ | akk / akal | all / earth |
 | l | /l/ | ilul | he was born |
 | m | /m/ | mmi | my son |
 | n | /n/ | nekkni | us |
