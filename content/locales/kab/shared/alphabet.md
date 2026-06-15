@@ -26,7 +26,7 @@
 | ṛ | /rˤ/ | ṛwiɣ | I am satiated |
 | s | /s/ | sin | two |
 | ṣ | /sˤ/ | ṣṣbeḥ | morning |
-| t | /t/ /θ/ | taddart / tili | village / shade (shadow) |
+| t | /t/ /θ/ | tamellalt / tili | egg / shade (shadow) |
 | ṭ | /tˤ/ | aṭas | a lot / many |
 | u | /u/ | udem | face |
 | v | /v/ | Vyitnam | Vietnam (foreign place name, non-standard char) |
