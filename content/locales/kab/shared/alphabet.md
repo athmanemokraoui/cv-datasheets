@@ -1,15 +1,15 @@
 | Symbol | IPA | Example (Kabyle) | English Translation |
 | --- | --- | --- | --- |
 | a | /a/ | aman | water |
-| b | /b/ /β/ | baba | father |
+| b | /b/ /β/ | bibb / ibawen | to carry / beans |
 | c | /ʃ/ | iccer | nail (anatomy) |
 | č | /t͡ʃ/ | ččina | orange |
-| d | /d/ /ð/ | ddaw | below / under |
-| ḍ | /dˤ/ /ðˤ/ | aḍar | foot / leg |
-| e | /ə/ | ilem | empty (schwa element) |
+| d | /d/ /ð/ | ddaw / adrar | below (under) / mountain |
+| ḍ | /dˤ/ | aḍar | foot / leg |
+| e | /ə/ | iles | tongue (schwa element) |
 | ɛ | /ʕ/ | ɛari | naked |
 | f | /f/ /ɸ/ | afus | hand |
-| g | /ɡ/ /ʝ/ | gma | my brother |
+| g | /ɡ/ /ʝ/ | argaz / agraw | man / group |
 | ǧ | /d͡ʒ/ | tajeǧǧigt | flower |
 | ɣ | /ɣ/ /ʁ/ | aɣrum | bread |
 | h | /h/ | ha-t-an | here he is |
@@ -23,12 +23,13 @@
 | p | /p/ | tappunt | a village name (in Akfadou) |
 | q | /q/ | aqerru | head |
 | r | /r/ | rwel | to run out |
-| ṛ | /rˤ/ | ṛwaḥ | come |
+| ṛ | /rˤ/ | ṛwiɣ | I am satiated |
 | s | /s/ | sin | two |
 | ṣ | /sˤ/ | ṣṣbeḥ | morning |
 | t | /t/ /θ/ | taddart | village / house |
 | ṭ | /tˤ/ | aṭas | a lot / many |
 | u | /u/ | udem | face |
+| v | /v/ | Vyitnam | Vietnam (foreign place name, non-standard char) |
 | w | /w/ | awal | word / speech |
 | x | /χ/ /x/ | axxam | house / room |
 | y | /j/ | yelli | my daughter |
