@@ -13,7 +13,7 @@
 | ǧ | /d͡ʒ/ | tajeǧǧigt | flower |
 | ɣ | /ɣ/ /ʁ/ | aɣrum | bread |
 | h | /h/ | ha-t-an | here he is |
-| ḥ | /ħ/ | ḥmel | to love |
+| ḥ | /ħ/ | ḥemmel | to love |
 | i | /i/ | imi | mouth |
 | j | /ʒ/ | ajerrid | trace / line |
 | k | /k/ /ç/ | akal | earth / land |
@@ -26,7 +26,7 @@
 | ṛ | /rˤ/ | ṛwiɣ | I am satiated |
 | s | /s/ | sin | two |
 | ṣ | /sˤ/ | ṣṣbeḥ | morning |
-| t | /t/ /θ/ | taddart | village / house |
+| t | /t/ /θ/ | taddart / tili | village / shade (shadow) |
 | ṭ | /tˤ/ | aṭas | a lot / many |
 | u | /u/ | udem | face |
 | v | /v/ | Vyitnam | Vietnam (foreign place name, non-standard char) |
