@@ -1,0 +1,21 @@
+The Aragonese alphabet uses the Latin script. 
+It includes the following letters:
+Uppercase: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z
+Lowercase: a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z
+
+The following digraphs are part of standard Aragonese orthography:
+    ch
+    ix
+    ll
+    ny
+    qu
+    gu
+    rr
+
+Accented vowels are used and should be preserved:
+
+    Á, É, Í, Ó, Ú, È, Ò, Ü; á, é, í, ó, ú, è, ò, ü.
+
+Letter ñ (uppercase Ñ) can be used instead of the digraph ny (anyo ~ año). Both are considered correct, but the reference spelling is that with ny (anyo). The digraph 'ny' is preferentially used in this dataset.
+
+The apostrophe is also used in forms such as "l'abella" and should be preserved. For consistency, it is recommended to normalize apostrophes to the ASCII apostrophe character (U+0027).
