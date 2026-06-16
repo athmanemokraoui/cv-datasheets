@@ -16,6 +16,6 @@ Accented vowels are used and should be preserved:
 
     Á, É, Í, Ó, Ú, È, Ò, Ü; á, é, í, ó, ú, è, ò, ü.
 
-Letter ñ (uppercase Ñ) can be used instead of the digraph ny (anyo ~ año). Both are considered correct, but the reference spelling is that with ny (anyo). The digraph 'ny' is preferently used in this dataset.
+Letter ñ (uppercase Ñ) can be used instead of the digraph ny (anyo ~ año). Both are considered correct, but the reference spelling is that with ny (anyo). The digraph 'ny' is preferentially used in this dataset.
 
 The apostrophe is also used in forms such as "l'abella" and should be preserved. For consistency, it is recommended to normalize apostrophes to the ASCII apostrophe character (U+0027).
