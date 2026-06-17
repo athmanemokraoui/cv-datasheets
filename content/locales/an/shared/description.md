@@ -1,1 +1,1 @@
-Aragonese is a Romance language spoken in several dialects by about 8,000&mdash;12,000 people in the northern areas of Aragon, Spain, primarily in the counties of Chacetania, Alto Galligo, Sobrarbe and Ribagorza.
+Aragonese is a Romance language spoken in several dialects by about 8,000&mdash;12,000 people in the northern areas of the Autonomous Community of Aragon, Spain, primarily in the counties of Chacetania, Alto Galligo, Sobrarbe and Ribagorza. It is legally protected but not recognized as an official language. 

@@ -1,1 +1,1 @@
-* Juan Pablo Martínez &lt;juanpabl@gmail.com&gt;
+* Juan Pablo Martínez &lt;jpmartinez@academiaaragonesadelalengua.org&gt;

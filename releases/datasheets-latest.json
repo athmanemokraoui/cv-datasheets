@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0.0",
-  "generated_at": "2026-06-17T08:08:57.181424+00:00",
+  "generated_at": "2026-06-17T00:26:20.316561+00:00",
   "snapshot_date": "latest",
   "templates": {
     "scs": {
@@ -402,20 +402,20 @@
           "text_direction": "LTR"
         },
         "community_fields": {
-          "language_description": "Aragonese is a Romance language spoken in several dialects by about 8,000&mdash;12,000 people in the northern areas of Aragon, Spain, primarily in the counties of Chacetania, Alto Galligo, Sobrarbe and Ribagorza.",
+          "language_description": "Aragonese is a Romance language spoken in several dialects by about 8,000&mdash;12,000 people in the northern areas of the Autonomous Community of Aragon, Spain, primarily in the counties of Chacetania, Alto Galligo, Sobrarbe and Ribagorza. It is legally protected but not recognized as an official language.",
           "variant_description": "",
           "accents_description": "",
           "text_corpus_description": "",
-          "writing_system_description": "In 2023, the [Academia Aragonesa de la Lengua](https://academiaaragonesadelalengua.org), a public institution created as language regulatory body, established the [Orthography of Aragonese](https://https://academiaaragonesadelalengua.org/sites/default/files/ficheros-pdf/ortografia-aragones.pdf) as the official spelling for the language. The spelling system is flexible enough to allow writing all Aragonese varieties.\n\nAll the submitted sentences have been adapted to the official orthography, although errors can be found occasionally.",
+          "writing_system_description": "In 2023, the [Academia Aragonesa de la Lengua](https://academiaaragonesadelalengua.org), the public institution created as language regulatory body, established the [Orthography of Aragonese](https://www.academiaaragonesadelalengua.org/sites/default/files/ficheros-pdf/ortografia-aragones.pdf) as the official spelling for the language. The spelling system is flexible enough to allow writing all Aragonese varieties.\n\nAll the submitted sentences have been adapted to the official orthography, although errors can be found occasionally.",
           "alphabet_table": "",
           "sources_list": "Sentences have been obtained from the works of two writters whose works are already in the public domain: Dámaso Carrera and Domingo Miral, as well as by living authors who have submitted sentences from their own works.\n\n* 1400 sentences from *Diccionario chistabino*. Author. F. Blas / F. Romanos. Chistabin Aragonese.\n* 251 sentences from stories. Author: D. Carrera (public domain). Ribagorzan Aragonese.\n* 814 sentences from stories. Author: M. Castán. Benás (patués) Aragonese.\n* 360 sentences from stories. Author: F. González. Ribagorzan Aragonese.\n* 1389 sentences from stories and plays. Author: E. Gusano. Ansotano Aragonese.\n* 997 sentences from linguistic surveys. Author: Ch. Lozano. Belsetan Aragonese.\n* 625 sentences from linguistic surveys. Author: Ch. Lozano. Tella Aragonese.\n* 870 sentences from a story book. Author: J.C. Marco. Ribagorzan Aragonese.\n* 732 sentences from stories and articles. Author: M. Marín. Cheso Aragonese.\n* 1309 sentences from scripts of the \"Pizarra y Clarión\" section of the Aragonese TV Show \"Charrín Charrán\". Author: J.P. Martínez. Variants: Standard Aragonese and all the main variants.\n* 441 sentences from theater play *Qui bien fa nunca lo pierde*. Author: D. Miral (public domain). Cheso Aragonese.\n* 209 sentences created for Aragonese course. Author: J. Orduna. Standard Aragonese.\n* 444 sentences from surveys and dictionary examples. Author. F. Romanos. La Fueva Aragonese.\n* 529 sentences from stories and articles. Author: J.M. Satué. Sobrepuerto Aragonese.\n* 100 sentences from stories. Author: Chorche. Panticuto Aragonese.",
           "text_domain_description": "",
           "processing_description": "",
-          "recommended_postprocessing_description": "",
+          "recommended_postprocessing_description": "We recommend normalizing the apostrophe character, as in l'abella, to a consistent Unicode codepoint (U+0027) before training, as some contributors might have used different quote characters.",
           "community_links_list": "",
           "discussion_links_list": "",
           "contribute_links_list": "",
-          "datasheet_authors_list": "* Juan Pablo Martínez <juanpabl@gmail.com>",
+          "datasheet_authors_list": "* Juan Pablo Martínez <jpmartinez@academiaaragonesadelalengua.org>",
           "citation_description": "",
           "funding_description": ""
         }
@@ -622,7 +622,7 @@
           "variant_description": "The Administrative Atlas of Cameroon's Languages (Breton and Bikia Fohtung 1993) lists 6 dialects of Tuki:\n- *Tungoro* spoken by the Aki around the Ngoro Subdivision\n- Tukombe spoken by the Kombe (or Bakombe)\n- Tonjo spoken by the Nju (or Bunju)\n- Tutsingo spoken by the Tsingo (or Batsingo)\n- Tocenka spoken by the Tiki also known as Bacenga\n- Tumbele spoken by the Mbele (also known as Bambele)\n\nOf the 6 dialects, two are reprensented in the dataset, namely, Tukombe and Tutsingo.",
           "accents_description": "",
           "text_corpus_description": "",
-          "writing_system_description": "The collection os sentence prompts provided by the language representatives aligns with the General Alphabet of Cameroonian Languages\n\n<<<<<<< HEAD:cv-corpus/scs/23.0-2025-09-17/draft/en/bag.md\nThe collection of sentence prompts provided by the language representatives aligns with the General Alphabet of Cameroonian Languages\n=======\n>>>>>>> ea7d0e1d91133988552b2e3f46fe0c5927749ffc:cv-corpus/scs/23.0-2025-09-05/final/en/bag.md",
+          "writing_system_description": "The collection os sentence prompts provided by the language representatives aligns with the General Alphabet of Cameroonian Languages",
           "alphabet_table": "",
           "sources_list": "",
           "text_domain_description": "",
@@ -12002,17 +12002,17 @@
           "text_direction": "LTR"
         },
         "community_fields": {
-          "language_description": "Aragonese is a Romance language spoken in several dialects by about 8,000&mdash;12,000 people in the northern areas of Aragon, Spain, primarily in the counties of Chacetania, Alto Galligo, Sobrarbe and Ribagorza.",
+          "language_description": "Aragonese is a Romance language spoken in several dialects by about 8,000&mdash;12,000 people in the northern areas of the Autonomous Community of Aragon, Spain, primarily in the counties of Chacetania, Alto Galligo, Sobrarbe and Ribagorza. It is legally protected but not recognized as an official language.",
           "variant_description": "",
           "accents_description": "",
           "transcriptions_description": "",
-          "writing_system_description": "In 2023, the [Academia Aragonesa de la Lengua](https://academiaaragonesadelalengua.org), a public institution created as language regulatory body, established the [Orthography of Aragonese](https://https://academiaaragonesadelalengua.org/sites/default/files/ficheros-pdf/ortografia-aragones.pdf) as the official spelling for the language. The spelling system is flexible enough to allow writing all Aragonese varieties.\n\nAll the submitted sentences have been adapted to the official orthography, although errors can be found occasionally.",
+          "writing_system_description": "In 2023, the [Academia Aragonesa de la Lengua](https://academiaaragonesadelalengua.org), the public institution created as language regulatory body, established the [Orthography of Aragonese](https://www.academiaaragonesadelalengua.org/sites/default/files/ficheros-pdf/ortografia-aragones.pdf) as the official spelling for the language. The spelling system is flexible enough to allow writing all Aragonese varieties.\n\nAll the submitted sentences have been adapted to the official orthography, although errors can be found occasionally.",
           "alphabet_table": "",
-          "recommended_postprocessing_description": "",
+          "recommended_postprocessing_description": "We recommend normalizing the apostrophe character, as in l'abella, to a consistent Unicode codepoint (U+0027) before training, as some contributors might have used different quote characters.",
           "community_links_list": "",
           "discussion_links_list": "",
           "contribute_links_list": "",
-          "datasheet_authors_list": "* Juan Pablo Martínez &lt;juanpabl@gmail.com&gt;",
+          "datasheet_authors_list": "* Juan Pablo Martínez &lt;jpmartinez@academiaaragonesadelalengua.org&gt;",
           "citation_description": "",
           "funding_description": ""
         }
