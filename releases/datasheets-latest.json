@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0.0",
-  "generated_at": "2026-06-16T16:01:58.503145+00:00",
+  "generated_at": "2026-06-17T00:26:20.316561+00:00",
   "snapshot_date": "latest",
   "templates": {
     "scs": {
@@ -622,7 +622,7 @@
           "variant_description": "The Administrative Atlas of Cameroon's Languages (Breton and Bikia Fohtung 1993) lists 6 dialects of Tuki:\n- *Tungoro* spoken by the Aki around the Ngoro Subdivision\n- Tukombe spoken by the Kombe (or Bakombe)\n- Tonjo spoken by the Nju (or Bunju)\n- Tutsingo spoken by the Tsingo (or Batsingo)\n- Tocenka spoken by the Tiki also known as Bacenga\n- Tumbele spoken by the Mbele (also known as Bambele)\n\nOf the 6 dialects, two are reprensented in the dataset, namely, Tukombe and Tutsingo.",
           "accents_description": "",
           "text_corpus_description": "",
-          "writing_system_description": "The collection os sentence prompts provided by the language representatives aligns with the General Alphabet of Cameroonian Languages\n\n<<<<<<< HEAD:cv-corpus/scs/23.0-2025-09-17/draft/en/bag.md\nThe collection of sentence prompts provided by the language representatives aligns with the General Alphabet of Cameroonian Languages\n=======\n>>>>>>> ea7d0e1d91133988552b2e3f46fe0c5927749ffc:cv-corpus/scs/23.0-2025-09-05/final/en/bag.md",
+          "writing_system_description": "The collection os sentence prompts provided by the language representatives aligns with the General Alphabet of Cameroonian Languages",
           "alphabet_table": "",
           "sources_list": "",
           "text_domain_description": "",
